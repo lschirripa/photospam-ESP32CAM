@@ -9,7 +9,7 @@
 const char* serverIP = "192.168.1.51"; // Replace with your FastAPI server IP address
 const int serverPort = 8000; // Replace with your FastAPI server port
 
-const char* serverName = "http://192.168.1.51:8000/upload";
+const char* serverName = "http://192.168.0.100:8000/upload";
 
 // Timer variables
 unsigned long lastTime = 0;
